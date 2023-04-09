@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c87194d4-ecfe-49cc-8d86-b60bc7e0225a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CareersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JobsLeverPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JobsPositionFilterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QApage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/msedgedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/TestSuites.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O7m8MCyRBGZcNXwWtxhqGYXJwn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kenankunc/IdeaProjects/InsiderCaseKenan&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main/resources/TestSuites" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml">
+    <configuration name="/Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/TestSuites.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homePageTest.JobsPositionFilterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest" />
+      <option name="METHOD_NAME" value="JobsPositionFilterTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homePageTest.careerPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest" />
+      <option name="METHOD_NAME" value="careerPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homePageTest.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest" />
+      <option name="METHOD_NAME" value="openHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml" />
+        <item itemvalue="TestNG.homePageTest" />
+        <item itemvalue="TestNG.homePageTest.JobsPositionFilterTest" />
+        <item itemvalue="TestNG.homePageTest.openHomePage" />
+        <item itemvalue="TestNG.homePageTest.careerPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c87194d4-ecfe-49cc-8d86-b60bc7e0225a" name="Changes" comment="" />
+      <created>1680919837969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680919837969</updated>
+      <workItem from="1680919839119" duration="2670000" />
+      <workItem from="1680938113072" duration="14607000" />
+      <workItem from="1680954673753" duration="977000" />
+      <workItem from="1680955661527" duration="134000" />
+      <workItem from="1680955897671" duration="4735000" />
+      <workItem from="1680990958173" duration="44147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

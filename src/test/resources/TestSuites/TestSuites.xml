@@ -1,7 +1,7 @@
 <suite name="TestSuite_1" verbose="1" >
     <test name="LoginTest" >
         <classes>
-            <class name="homePageTest" />
+            <class name="InsiderQAJobAppTest" />
         </classes>
     </test>
 </suite>

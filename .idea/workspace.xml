@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c87194d4-ecfe-49cc-8d86-b60bc7e0225a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BrowserDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CareersPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JobsLeverPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JobsPositionFilterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QApage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/msedgedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homePageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuites/TestSuites.xml" afterDir="false" />
+    <list default="true" id="c87194d4-ecfe-49cc-8d86-b60bc7e0225a" name="Changes" comment="Kenan Künç - Insider Task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +69,53 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG./Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml">
+    <configuration name="InsiderQAJobAppTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsiderQAJobAppTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsiderQAJobAppTest.JobsPositionFilterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsiderQAJobAppTest" />
+      <option name="METHOD_NAME" value="JobsPositionFilterTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsiderQAJobAppTest.careerPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsiderQAJobAppTest" />
+      <option name="METHOD_NAME" value="careerPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsiderQAJobAppTest.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InsiderCaseKenan" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InsiderQAJobAppTest" />
+      <option name="METHOD_NAME" value="openHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="InsiderCaseKenan" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/TestSuites.xml" />
@@ -97,60 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="InsiderCaseKenan" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homePageTest.JobsPositionFilterTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="InsiderCaseKenan" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest" />
-      <option name="METHOD_NAME" value="JobsPositionFilterTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homePageTest.careerPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="InsiderCaseKenan" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest" />
-      <option name="METHOD_NAME" value="careerPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homePageTest.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="InsiderCaseKenan" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest" />
-      <option name="METHOD_NAME" value="openHomePage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/kenankunc/IdeaProjects/InsiderCaseKenan/src/test/resources/TestSuites/TestSuites.xml" />
-        <item itemvalue="TestNG.homePageTest" />
-        <item itemvalue="TestNG.homePageTest.JobsPositionFilterTest" />
-        <item itemvalue="TestNG.homePageTest.openHomePage" />
-        <item itemvalue="TestNG.homePageTest.careerPage" />
+        <item itemvalue="TestNG.InsiderQAJobAppTest" />
+        <item itemvalue="TestNG.InsiderQAJobAppTest.JobsPositionFilterTest" />
+        <item itemvalue="TestNG.InsiderQAJobAppTest.openHomePage" />
+        <item itemvalue="TestNG.InsiderQAJobAppTest.careerPage" />
       </list>
     </recent_temporary>
   </component>
@@ -167,11 +149,23 @@
       <workItem from="1680954673753" duration="977000" />
       <workItem from="1680955661527" duration="134000" />
       <workItem from="1680955897671" duration="4735000" />
-      <workItem from="1680990958173" duration="44147000" />
+      <workItem from="1680990958173" duration="44886000" />
     </task>
+    <task id="LOCAL-00001" summary="Kenan Künç - Insider Task">
+      <created>1681078920851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681078920851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kenan Künç - Insider Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kenan Künç - Insider Task" />
   </component>
 </project>
